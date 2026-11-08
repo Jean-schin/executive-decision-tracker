@@ -1,0 +1,54 @@
+{
+  "next_id": 4,
+  "items": [
+    {
+      "id": "A001",
+      "task": "Draft the revised Q4 launch plan with engineering estimates",
+      "owner": "Mei Chen",
+      "owner_basis": "explicit",
+      "due_date": "2026-11-06",
+      "priority": "high",
+      "status": "open",
+      "created": "2026-11-02",
+      "source_meeting": "Exec Weekly",
+      "evidence": "Fictional example data",
+      "timestamp": "",
+      "history": []
+    },
+    {
+      "id": "A002",
+      "task": "Circulate a vendor shortlist for the warehouse scanner pilot",
+      "owner": "Luis Ortega",
+      "owner_basis": "explicit",
+      "due_date": "2026-11-20",
+      "priority": "medium",
+      "status": "open",
+      "created": "2026-11-02",
+      "source_meeting": "Exec Weekly",
+      "evidence": "Fictional example data",
+      "timestamp": "",
+      "history": []
+    },
+    {
+      "id": "A003",
+      "task": "Send the board pre-read to all directors",
+      "owner": "Dana Smith",
+      "owner_basis": "explicit",
+      "due_date": "2026-11-05",
+      "priority": "high",
+      "status": "open",
+      "created": "2026-11-02",
+      "source_meeting": "Exec Weekly",
+      "evidence": "Fictional example data",
+      "timestamp": "",
+      "history": []
+    }
+  ],
+  "meetings": [
+    {
+      "date": "2026-11-02",
+      "title": "Exec Weekly",
+      "fingerprint": "fictional-example"
+    }
+  ]
+}

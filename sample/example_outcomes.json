@@ -1,0 +1,98 @@
+{
+  "summary": "The team agreed to move the Q4 launch to December 15 so Finance has an extra week to close the budget. The board pre-read is complete. The revised launch plan remains blocked on vendor estimates, and the scanner pilot shortlist is in progress. A possible hiring freeze was raised but not decided; it moves to next week's agenda.",
+  "decisions": [
+    {
+      "decision": "Move the Q4 launch to December 15",
+      "rationale": "Finance needs an extra week to close the budget.",
+      "decided_by": "Dana Smith",
+      "timestamp": "00:00:53"
+    }
+  ],
+  "action_items": [
+    {
+      "task": "Confirm with the engineering team that the December 15 launch date is achievable and report back",
+      "owner": "Mei Chen",
+      "owner_basis": "explicit",
+      "due_date": "2026-11-13",
+      "priority": "high",
+      "evidence": "\"I'll confirm with the team by Friday and report back.\"",
+      "timestamp": "00:01:01"
+    },
+    {
+      "task": "Send the revised budget forecast to the whole team",
+      "owner": "Raj Patel",
+      "owner_basis": "explicit",
+      "due_date": "2026-11-11",
+      "priority": "high",
+      "evidence": "\"I'll send the revised forecast to the whole team by Wednesday.\"",
+      "timestamp": "00:01:09"
+    },
+    {
+      "task": "Bring the headcount numbers to next week's meeting for the hiring-freeze discussion",
+      "owner": "Raj Patel",
+      "owner_basis": "explicit",
+      "due_date": "2026-11-16",
+      "priority": "medium",
+      "evidence": "Dana asked Raj to bring headcount numbers; Raj replied \"Sure, I'll bring them.\"",
+      "timestamp": "00:01:27"
+    }
+  ],
+  "previous_item_updates": [
+    {
+      "id": "A003",
+      "status": "done",
+      "note": "Board pre-read went out Thursday."
+    },
+    {
+      "id": "A001",
+      "status": "blocked",
+      "note": "Waiting on vendor estimates for the firmware work."
+    },
+    {
+      "id": "A002",
+      "status": "in_progress",
+      "note": "Three vendors identified so far; shortlist still due by the 20th."
+    }
+  ],
+  "open_questions": [
+    "Should the company introduce a hiring freeze?"
+  ],
+  "risks_and_blockers": [
+    "The revised launch plan (A001) is blocked on vendor estimates for the firmware work, which could put the December 15 date at risk."
+  ],
+  "uncertainties": [
+    "Typed notes say Raj's forecast is due Tuesday; the transcript says Wednesday. The transcript was used (due 2026-11-11). Please confirm.",
+    "The transcript only says \"the 15th\"; the month (December) comes from the typed notes.",
+    "The hiring-freeze remark was hedged (\"probably\", \"not sure yet\"), so it was recorded as an open question rather than an action item."
+  ],
+  "follow_up_agenda": [
+    {
+      "topic": "Hiring freeze decision",
+      "lead": "Dana Smith",
+      "minutes": 20,
+      "purpose": "decide",
+      "context": "Raj to present the headcount numbers."
+    },
+    {
+      "topic": "Launch readiness: engineering confirmation and revised launch plan",
+      "lead": "Mei Chen",
+      "minutes": 15,
+      "purpose": "unblock",
+      "context": "A001 is blocked on vendor estimates and overdue; confirm the December 15 date is feasible."
+    },
+    {
+      "topic": "Revised budget forecast review",
+      "lead": "Raj Patel",
+      "minutes": 15,
+      "purpose": "review_progress",
+      "context": ""
+    },
+    {
+      "topic": "Scanner pilot vendor shortlist",
+      "lead": "Luis Ortega",
+      "minutes": 10,
+      "purpose": "review_progress",
+      "context": "Shortlist due November 20."
+    }
+  ]
+}
